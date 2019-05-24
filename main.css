@@ -1,0 +1,20 @@
+h1 {
+    font-size: 2.6575rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: #868e96;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.32875rem;
+    font-weight: 300;
+}
+
+li {
+    list-style: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding-top: 10px;
+}
